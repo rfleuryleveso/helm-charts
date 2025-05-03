@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  octobot:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-05-03T12:50:37.899416782Z"
+    description: A Helm chart for Kubernetes
+    digest: b4f50823fcdeaa8dd691b030409a9234e0ba5aabf65f0a542f82deae6a4c2899
+    name: octobot
+    type: application
+    urls:
+    - https://github.com/rfleuryleveso/helm-charts/releases/download/octobot-0.1.0/octobot-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-05-03T12:50:37.899427733Z"
