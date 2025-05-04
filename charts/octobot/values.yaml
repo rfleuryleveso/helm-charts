@@ -118,4 +118,4 @@ affinity: {}
 persistence:
   enabled: true
   accessMode: "ReadWriteOncePod"
-  size: "2g"
+  size: "2G"
