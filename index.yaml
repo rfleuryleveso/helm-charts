@@ -3,6 +3,16 @@ entries:
   octobot:
   - apiVersion: v2
     appVersion: 2.0.9
+    created: "2025-05-04T11:31:05.725379156Z"
+    description: Octobot is a powerful open-source cryptocurrency trading robot.
+    digest: 1ea96d92b7d7feaf9973c37a7c1a86724f35a6153dedb01e5c3ce23bff11e337
+    name: octobot
+    type: application
+    urls:
+    - https://github.com/rfleuryleveso/helm-charts/releases/download/octobot-0.1.2/octobot-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 2.0.9
     created: "2025-05-04T11:28:24.264328717Z"
     description: Octobot is a powerful open-source cryptocurrency trading robot.
     digest: 186d4843da59cb1e0b423cff9f165c2397eb6432be31fb031d8199f51df58031
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/rfleuryleveso/helm-charts/releases/download/octobot-0.1.0/octobot-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-04T11:28:24.264343564Z"
+generated: "2025-05-04T11:31:05.725398422Z"
